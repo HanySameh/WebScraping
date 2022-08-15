@@ -1,2 +1,2 @@
-# Web Scrabing with python 
+# Web Scraping with python 
 flutter jobs from wuzzuf
